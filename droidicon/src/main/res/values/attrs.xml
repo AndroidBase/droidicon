@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="DroidiconBadge">
+    <declare-styleable name="droidicon">
         <attr name="db_bg_color" format="color" />
         <attr name="db_icon_color" format="color" />
         <attr name="db_icon" format="string" />
